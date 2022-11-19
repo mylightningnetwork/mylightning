@@ -6,7 +6,7 @@
   HUGO_VERSION = "0.101.0"
 
 [[headers]]
-  for = "/*" # This defines which paths this specific [[headers]] block will cover.
+  for = "https://mylightning.network*" # This defines which paths this specific [[headers]] block will cover.
 
 [headers.values]
   X-Frame-Options = "DENY"
